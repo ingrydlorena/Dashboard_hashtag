@@ -18,7 +18,7 @@ Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco 
 ---
 
 ## 🌍 Dashboard de Vendas Global
-![Dashboard de Vendas Global](Dash_Vendas_1.jpg)
+![Dashboard de Vendas Global](Dash_Vendas_2.jpg)
 
 **Objetivo:** Avaliar a performance de vendas por marca, produto, continente e período.
 
@@ -44,7 +44,7 @@ Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco 
 ---
 
 ## 🖱️ Dashboard de Vendas por Produto
-![Dashboard de Vendas por Produto](Dash_Vendas_2.jpg)
+![Dashboard de Vendas por Produto](Dash_Vendas_1.jpg)
 
 **Objetivo:** Acompanhar as vendas por produto, marca e continente.
 
