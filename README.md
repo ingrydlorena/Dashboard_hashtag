@@ -1,10 +1,10 @@
-# 📊 Portfólio de Dashboards em Power BI
+# Portfólio de Dashboards em Power BI
 
 Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco em diferentes áreas de negócio, como Vendas, RH, Produção e Financeiro. Cada visualização foi criada com o objetivo de facilitar a tomada de decisão por meio de dados claros, objetivos e visualmente organizados.
 
 ---
 
-## 💰 Dashboard Financeiro
+## Dashboard Financeiro
 ![Dashboard Financeiro](Dash_Financeiro.jpg)
 
 **Objetivo:** Analisar o fluxo financeiro da empresa, com destaque para recebimentos, pagamentos, impostos e lucro.
@@ -17,7 +17,7 @@ Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco 
 
 ---
 
-## 🌍 Dashboard de Vendas Global
+## Dashboard de Vendas Global
 ![Dashboard de Vendas Global](Dash_Vendas_2.jpg)
 
 **Objetivo:** Avaliar a performance de vendas por marca, produto, continente e período.
@@ -30,7 +30,7 @@ Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco 
 
 ---
 
-## 👥 Dashboard de RH
+## Dashboard de RH
 ![Dashboard de RH](Dash_RH.jpg)
 
 **Objetivo:** Monitorar os principais indicadores de Recursos Humanos.
@@ -43,7 +43,7 @@ Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco 
 
 ---
 
-## 🖱️ Dashboard de Vendas por Produto
+## Dashboard de Vendas por Produto
 ![Dashboard de Vendas por Produto](Dash_Vendas_1.jpg)
 
 **Objetivo:** Acompanhar as vendas por produto, marca e continente.
@@ -56,7 +56,7 @@ Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco 
 
 ---
 
-## 🏭 Dashboard de Produção
+## Dashboard de Produção
 ![Dashboard de Produção](Dash_Produção.jpg)
 
 **Objetivo:** Medir a produtividade e qualidade da produção ao longo dos meses.
@@ -69,5 +69,5 @@ Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco 
 
 ---
 
-💡 *Todos os dashboards foram desenvolvidos no Power BI com foco em clareza visual, usabilidade e entrega de insights estratégicos para o negócio.*
+*Todos os dashboards foram desenvolvidos no Power BI com foco em clareza visual, usabilidade e entrega de insights estratégicos para o negócio.*
 
