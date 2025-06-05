@@ -18,7 +18,7 @@ Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco 
 ---
 
 ## 🌍 Dashboard de Vendas Global
-![Dashboard de Vendas Global](Dash_Vendas_1jpg)
+![Dashboard de Vendas Global](Dash_Vendas_1.jpg)
 
 **Objetivo:** Avaliar a performance de vendas por marca, produto, continente e período.
 
@@ -31,7 +31,7 @@ Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco 
 ---
 
 ## 👥 Dashboard de RH
-![Dashboard de RH](./Dash(3).jpg)
+![Dashboard de RH](Dash_RH.jpg)
 
 **Objetivo:** Monitorar os principais indicadores de Recursos Humanos.
 
@@ -44,7 +44,7 @@ Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco 
 ---
 
 ## 🖱️ Dashboard de Vendas por Produto
-![Dashboard de Vendas por Produto](./Dash(4).jpg)
+![Dashboard de Vendas por Produto](Dash_Vendas_2.jpg)
 
 **Objetivo:** Acompanhar as vendas por produto, marca e continente.
 
@@ -57,7 +57,7 @@ Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco 
 ---
 
 ## 🏭 Dashboard de Produção
-![Dashboard de Produção](./Dash(5).jpg)
+![Dashboard de Produção](Dash_Produção.jpg)
 
 **Objetivo:** Medir a produtividade e qualidade da produção ao longo dos meses.
 
