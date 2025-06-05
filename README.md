@@ -5,7 +5,7 @@ Este portfólio reúne alguns dos dashboards desenvolvidos no Power BI com foco 
 ---
 
 ## 💰 Dashboard Financeiro
-![Dashboard Financeiro](./Dash(1).jpg)
+![Dashboard Financeiro](Dash_Financeiro.jpg)
 
 **Objetivo:** Analisar o fluxo financeiro da empresa, com destaque para recebimentos, pagamentos, impostos e lucro.
 
